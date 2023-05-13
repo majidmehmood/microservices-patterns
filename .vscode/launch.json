@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BulkheadApplication<BulkheadApplication>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "bulkhead.BulkheadApplication",
+            "projectName": "BulkheadApplication",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
